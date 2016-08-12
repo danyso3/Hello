@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello World :)</string>
+    <string name="click_me">Click me</string>
+    <string name="string_click_me">\@string_click_me</string>
+    <string name="img">img</string>
+    <string name="dogs">dogs</string>
+    <string name="yo">yo</string>
+    <string name="Next">Click me</string>
+    <string name="this_is_me">This is me</string>
+    <string name="friends">FRIENDS :)</string>
+    <string name="my_familly">My familly</string>
+</resources>
